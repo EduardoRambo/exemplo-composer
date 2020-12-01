@@ -1,0 +1,15 @@
+{
+    "name": "eduardorambo/exemplocomposer",
+    "description": "Exemplo Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Rambo",
+            "email": "eduardorambolima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cocur/slugify": "9999999-dev"
+    }
+}
